@@ -3,7 +3,7 @@
     <div class="landing-hero">
       <ModrinthIcon />
       <h1 class="main-header">
-        The place for Minecraft
+        Một nơi cho
         <div class="animate-strong">
           <span>
             <strong
@@ -13,7 +13,7 @@
             >
               {{ projectType.display }}s <br />
             </strong>
-            <strong class="main-header-strong">mods</strong>
+            <strong class="main-header-strong">Minecraft Mods</strong>
           </span>
         </div>
       </h1>
